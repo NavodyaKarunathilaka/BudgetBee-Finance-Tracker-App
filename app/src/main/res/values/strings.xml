@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinanceTracker</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="selected_date_format">Selected: %s</string>
+    <string name="select_date_first">Please select a date first</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    <string name="delete_transaction_confirmation">Are you sure you want to delete this transaction?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="transaction_deleted">Transaction deleted</string>
+    <string name="user_not_logged_in">User not logged in</string>
+    <string name="export_error">Error exporting transactions</string>
+    <string name="share_error">Error sharing file</string>
+    <string name="share_file">Share File</string>
+    <string name="select_backup_file">Select Backup File</string>
+    <string name="backup_restored">Backup restored successfully</string>
+    <string name="error_restoring_backup">Error restoring backup: %s</string>
+    <string name="error_description_required">Description is required</string>
+    <string name="error_valid_amount_required">Please enter a valid amount</string>
+    <string name="error_category_required">Please select a category</string>
+    <string name="error_transaction_type_required">Please select a transaction type</string>
+    <string name="transaction_added">Transaction added successfully</string>
+    <string name="error_saving_transaction">Error saving transaction</string>
+    <string name="error_not_logged_in">Please log in to continue</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_export_json"
+        android:title="Export as JSON"
+     />
+    <item
+        android:id="@+id/menu_export_text"
+        android:title="Export as Text"
+     />
+    <item
+        android:id="@+id/menu_restore"
+        android:title="Restore from Backup"
+       />
+</menu>
