@@ -1,6 +1,9 @@
 # 🐝 BudgetBee – Personal Finance Tracker App
 
+📱 Android App | Kotlin | Room Database | Material Design
+
 BudgetBee is a comprehensive personal finance management application designed to help users track their income, expenses, and budgets effectively. Built with modern Android development practices, BudgetBee provides a clean, intuitive interface for managing personal finances.
+
 
 ## ✨ Key Features
 
