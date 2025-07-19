@@ -48,12 +48,6 @@ BudgetBee is a comprehensive personal finance management application designed to
 ---
 
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/BudgetBee.git
-
 ### 👩‍💻 Developed By
 - Navodya Krunathilaka
 - BSc Software Engineering UG @ SLIIT
